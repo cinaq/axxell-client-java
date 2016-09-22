@@ -37,7 +37,7 @@ import java.util.List;
  * An item is often equivalent to a product or service in your store
  */
 @ApiModel(description = "An item is often equivalent to a product or service in your store")
-@javax.annotation.Generated(value = "class io.swagger.codegen.languages.JavaClientCodegen", date = "2016-09-11T22:53:19.525+02:00")
+@javax.annotation.Generated(value = "class io.swagger.codegen.languages.JavaClientCodegen", date = "2016-09-22T21:27:56.094+02:00")
 public class Item   {
   @SerializedName("creationTime")
   private String creationTime = null;

@@ -35,7 +35,7 @@ import io.swagger.annotations.ApiModelProperty;
  * A store is equivalent to an user account
  */
 @ApiModel(description = "A store is equivalent to an user account")
-@javax.annotation.Generated(value = "class io.swagger.codegen.languages.JavaClientCodegen", date = "2016-09-11T22:53:19.525+02:00")
+@javax.annotation.Generated(value = "class io.swagger.codegen.languages.JavaClientCodegen", date = "2016-09-22T21:27:56.094+02:00")
 public class Store   {
   @SerializedName("email")
   private String email = null;

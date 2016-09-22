@@ -35,7 +35,7 @@ import io.swagger.annotations.ApiModelProperty;
  * An event registered in the system
  */
 @ApiModel(description = "An event registered in the system")
-@javax.annotation.Generated(value = "class io.swagger.codegen.languages.JavaClientCodegen", date = "2016-09-11T22:53:19.525+02:00")
+@javax.annotation.Generated(value = "class io.swagger.codegen.languages.JavaClientCodegen", date = "2016-09-22T21:27:56.094+02:00")
 public class Event   {
   @SerializedName("creationTime")
   private String creationTime = null;
